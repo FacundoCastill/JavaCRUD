@@ -44,7 +44,7 @@ public class VentanaPrincipal {
         ventana.add(botonVender);
 
          JLabel labelImagen = new JLabel();
-        labelImagen.setBounds(200, 0, 600, 381); // Ajusta las coordenadas y el tamaño según tus necesidades
+        labelImagen.setBounds(200, 0, 600, 381);
 
         ImageIcon icono = new ImageIcon("C:/Users/Oh yeah/Documents/NetBeansProjects/finaljavainspi/src/main/java/com/mycompany/finaljavainspi/logo.png");
         Image imagen = icono.getImage().getScaledInstance(labelImagen.getWidth(), labelImagen.getHeight(), Image.SCALE_SMOOTH);
