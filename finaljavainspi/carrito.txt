@@ -1,0 +1,5 @@
+Producto	Cantidad	Precio unitario	Total
+Cigarrillos	1	500.0	500.0
+caramelos	6	50.0	300.0
+
+Total: 800.0
